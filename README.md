@@ -1,14 +1,15 @@
 # vims
 
-awesome vim config for you.
+Awesome vim config for you.
 
 ## Nvim
 
-- github.com/xvzc/nvim
+- [@xvzc](https://github.com/xvzc): [nvim](github.com/xvzc/nvim)
 
 ## Nvchad
+
+_please share your awesome config through PR!_
 
 ## Special Thanks
 
 - [vim/nvim/emacs 에디터 공유](https://open.kakao.com/o/g0HjURue)
-
