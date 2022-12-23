@@ -5,6 +5,7 @@ Awesome vim config for you.
 ## Nvim
 
 - [@xvzc](https://github.com/xvzc): [nvim](github.com/xvzc/nvim)
+- [@yoonjin2](https://github.com/yoonjin2): [nvim-setup](https://github.com/yoonjin2/nvim-setup)
 
 ## Nvchad
 
