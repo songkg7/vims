@@ -10,6 +10,7 @@ Vim 을 사용하는 다양한 사람들의 설정과 키매핑, 그 외 모든 
 
 ## Nvim
 
+- [@AstroNvim](https://github.com/AstroNvim): [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 - [@neovim](https://github.com/neovim): [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [@xvzc](https://github.com/xvzc): [nvim](https://github.com/xvzc/nvim)
 - [@yoonjin2](https://github.com/yoonjin2): [nvim-setup](https://github.com/yoonjin2/nvim-setup)
