@@ -1,2 +1,8 @@
 # vims
-awesome vim config for you
+
+awesome vim config for you.
+
+## Nvim
+
+## Nvchad
+
