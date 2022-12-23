@@ -1,6 +1,8 @@
-# vims
+# Vims
 
-Awesome vim config for you.
+> Awesome vim config for you.
+
+Vim 을 사용하는 다양한 사람들의 설정과 키매핑, 그 외 모든 정보를 정리해두는 Repository 입니다.
 
 ## Vim
 
@@ -14,8 +16,8 @@ Awesome vim config for you.
 
 ## Nvchad
 
-_please share your awesome config through PR!_
+_please share your awesome config through PR!_ 🙏🥹
 
-## Special Thanks
+## 🎉 Special Thanks
 
 - [vim/nvim/emacs 에디터 공유](https://open.kakao.com/o/g0HjURue)
