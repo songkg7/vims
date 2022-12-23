@@ -8,6 +8,7 @@ Awesome vim config for you.
 
 ## Nvim
 
+- [@neovim](https://github.com/neovim): [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [@xvzc](https://github.com/xvzc): [nvim](https://github.com/xvzc/nvim)
 - [@yoonjin2](https://github.com/yoonjin2): [nvim-setup](https://github.com/yoonjin2/nvim-setup)
 

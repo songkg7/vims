@@ -7,3 +7,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/xvzc/nvim
+[submodule "nvim-lspconfig"]
+	path = nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
