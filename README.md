@@ -2,6 +2,10 @@
 
 Awesome vim config for you.
 
+## Vim
+
+- [@amix](https://github.com/amix): [vimrc](https://github.com/amix/vimrc)
+
 ## Nvim
 
 - [@xvzc](https://github.com/xvzc): [nvim](github.com/xvzc/nvim)
