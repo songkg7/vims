@@ -1,3 +1,9 @@
 [submodule "nvim-setup"]
 	path = nvim-setup
 	url = https://github.com/yoonjin2/nvim-setup
+[submodule "vimrc"]
+	path = vimrc
+	url = https://github.com/amix/vimrc
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/xvzc/nvim
