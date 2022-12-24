@@ -13,3 +13,6 @@
 [submodule "AstroNvim"]
 	path = AstroNvim
 	url = https://github.com/AstroNvim/AstroNvim
+[submodule "LunarChad"]
+	path = LunarChad
+	url = https://github.com/ViktorBusk/LunarChad
