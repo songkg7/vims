@@ -12,6 +12,7 @@ _please share your awesome config through PR!_ 🙏🥹
 
 ## Nvim
 
+- [@nvim-lua](https://github.com/nvim-lua): [kickstart.vmim](https://github.com/nvim-lua/kickstart.nvim)
 - [@AstroNvim](https://github.com/AstroNvim): [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 - [@neovim](https://github.com/neovim): [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [@xvzc](https://github.com/xvzc): [nvim](https://github.com/xvzc/nvim)

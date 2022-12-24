@@ -16,3 +16,6 @@
 [submodule "LunarChad"]
 	path = LunarChad
 	url = https://github.com/ViktorBusk/LunarChad
+[submodule "kickstart.nvim"]
+	path = kickstart.nvim
+	url = https://github.com/nvim-lua/kickstart.nvim
