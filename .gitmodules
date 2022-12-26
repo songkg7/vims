@@ -19,3 +19,6 @@
 [submodule "kickstart.nvim"]
 	path = kickstart.nvim
 	url = https://github.com/nvim-lua/kickstart.nvim
+[submodule "development_nvim"]
+	path = development_nvim
+	url = https://github.com/flutterfocus/development_nvim

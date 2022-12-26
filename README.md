@@ -17,9 +17,7 @@ _please share your awesome config through PR!_ 🙏🥹
 - [@neovim](https://github.com/neovim): [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [@xvzc](https://github.com/xvzc): [nvim](https://github.com/xvzc/nvim)
 - [@yoonjin2](https://github.com/yoonjin2): [nvim-setup](https://github.com/yoonjin2/nvim-setup)
-
-## Nvchad
-
+- [@flutterfocus](https://github.com/flutterfocus): [development_nvim](https://github.com/flutterfocus/development_nvim)
 - [@VictorBusk](https://github.com/ViktorBusk): [LunarChad](https://github.com/ViktorBusk/LunarChad)
 
 ## 🎉 Special Thanks
