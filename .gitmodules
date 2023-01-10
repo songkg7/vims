@@ -22,3 +22,6 @@
 [submodule "development_nvim"]
 	path = development_nvim
 	url = https://github.com/flutterfocus/development_nvim
+[submodule "lazy.nvim"]
+	path = lazy.nvim
+	url = https://github.com/folke/lazy.nvim.git
